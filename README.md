@@ -2,6 +2,8 @@
 
 the callback won't exec more than once during time interval 
 
+[demo](https://frencyliu.github.io/debounce/)
+
 ```debounce (callback, delay, ...args)```
 
 1. ```callback``` your custom callback
